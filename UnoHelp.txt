@@ -1,3 +1,16 @@
-Rules For Uno:
+UNO RULES & HOW TO PLAY
 
-TO BE IMPLEMENTED
+The point of Uno is to get rid of all of your cards before everyone else does. The discard pile will first start with 
+a random card. Card's consist of a rank and a face (or special value, explained later). On your turn, you must play 
+a card that's rank or face matches the rank or face of the card on the top of the discard pile. You win the game when 
+you successfully get rid of all the cards in your hand.
+
+Some special cards are as follows:
+
+Skip: Skip's the next players turn
+Reverse: Reverses the turn order
+Draw2: Forces the opponent to draw two cards from the drawpile
+Draw4: Forces the opponent to draw four cards from the drawpile
+SwitchColor: Allows you to switch the color of the playing field (Yellow, Blue, Green, or Red)
+
+Have Fun!!!
