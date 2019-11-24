@@ -200,7 +200,7 @@ void Uno::playGame() {
 			break;
 		case 3: {
 			std::ifstream fileIn;
-			fileIn.open("UnoHelp.dat");
+			fileIn.open("UnoHelp.txt");
 			std::string output;
 			if (fileIn.is_open()) {
 				while (!fileIn.eof()) {
