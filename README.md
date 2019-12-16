@@ -14,7 +14,7 @@ To compile the game, type: "make game" in the command line. in the root director
 there should be an executable called runningGame. Run the executable by typing runningGame in the 
 command line.
 
+Example Screenshot Of Playing Uno Against A Computer
 
-
-
+<img src="/imgs/PlayGame.JPG">
 
