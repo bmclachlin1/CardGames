@@ -16,5 +16,5 @@ command line.
 
 Example Screenshot Of Playing Uno Against A Computer
 
-<img src="/imgs/PlayGame.JPG">
+<img src="/imgs/PlayGame.JPG" width=100%>
 
